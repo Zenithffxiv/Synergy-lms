@@ -33,6 +33,4 @@ def find_sum_between_extremes(arr):
     return total, max_index, min_index, negative_elements
 ```
 
-### Ссылка на GitHub
 
-🔗 **[https://github.com/Zenithffxiv/Synergy-lms.git](https://github.com/Zenithffxiv/Synergy-lms.git)**
